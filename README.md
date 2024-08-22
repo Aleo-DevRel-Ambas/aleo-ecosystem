@@ -1,4 +1,4 @@
-<h1 align="center">awesome-aleo</h1>
+<h1 align="center">aleo-ecosystem</h1>
 <h3 align="center">🧿 A curated list of Aleo resources and ecosystem projects. 🧿</h3>
 
 <p align="center">
