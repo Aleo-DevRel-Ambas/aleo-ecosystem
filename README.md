@@ -34,7 +34,7 @@ Take a quick tour of everything in the Aleo Ecosystem:
   - [Hardware Acceleration](#hardware-acceleration)
   - [Playgrounds](#playgrounds)
   - [Syntax Highlighters](#syntax-highlighters)
-  - [Python Developer Tooling](#python-developer-tooling)
+  - [Developer Tooling](#developer-tooling)
   - [Security](#security)
 - [Applications](#applications) – Check out the awesome stuff people are building!
   - [Algorithms](#algorithms)
