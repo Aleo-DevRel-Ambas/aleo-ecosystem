@@ -140,6 +140,9 @@ Below is a curated list of Aleo-powered applications, organized by category:
 ### Bridging
 - [Eclipse](https://github.com/eqlabs/eclipse) – Bridging ecosystems by storing zero-knowledge proofs of Solana votes on Aleo
 - [IZAR](https://github.com/izar-bridge/aleo-contracts) – A privacy-preserving cross-chain interoperability protocol between Ethereum and Aleo
+- [Gas Zip](https://github.com/gasdotzip) – A bridge solution for Aleo
+- [GMP Bridge Expansion](https://www.gas.zip/) – Expansion project for generalized message passing in bridging
+- [Verulink Bridge](https://github.com/venture23-aleo/verulink) – Privacy-preserving bridge built on Aleo
 
 ### Decentralized Finance (DeFi)
 - [aleo/token](https://github.com/AleoHQ/aleo/tree/testnet3/examples/token) – Aleo custom asset example
@@ -197,8 +200,8 @@ Below is a curated list of Aleo-powered applications, organized by category:
 ### Governance
 - [MACI](https://github.com/Entropy1729/aleo_minimum_anti_collusion_infrastructure) – Minimum Anti-Collusion Infrastructure on Aleo
 - [Aleo-Vote](https://github.com/zkprivacy/aleo-vote) – A ZK voting application on Aleo
-- [leo/vote](https://github.com/AleoHQ/leo/tree/testnet3/examples/vote) – Example propose-and-vote mechanism in Leo
-- [ZK Suggestion Box](https://github.com/demox-labs/zk-suggestion-box) – An anonymous suggestion box on Aleo
+- [leo/vote](https://github.com/AleoHQ/leo/tree/testnet3/examples/vote) – An example propose and vote mechanism in Leo
+- [zk Suggestion Box](https://github.com/demox-labs/zk-suggestion-box) – An anonymous suggestion box built on Aleo
 
 ### Machine Learning
 - [Neural Network Inference](https://github.com/zeroknowledgetutorials/leo-neural-networks) – ML inference in Leo & Python
