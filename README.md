@@ -123,8 +123,12 @@ Take a quick tour of everything in the Aleo Ecosystem:
 - [VSCode - Leo](https://marketplace.visualstudio.com/items?itemName=aleohq.leo-extension)  
 - [vim - Aleo](https://github.com/julesdesmit/aleo.vim)  
 
-### Python Developer Tooling
+### Developer Tooling
 - [Leo Program Runner](https://github.com/snowtigersoft/run_leo) – Load & execute Leo programs in Python  
+- [Leology](https://github.com/leology-org/leology) – Developer-friendly SDK  
+- [dokoJS](https://github.com/venture23-aleo/doko-js) – JS toolkit for Aleo  
+- [Amaraleo](https://github.com/kaxxa123/amareleo-chain) – Blockchain infra  
+  - [Official Site](https://amareleo.com/)  
 
 ### Security
 - [Vanguard for Aleo](https://github.com/Veridise/vanguard-aleo) – Static analyzer for Leo/Aleo
@@ -283,10 +287,6 @@ Take a quick tour of everything in the Aleo Ecosystem:
 - [Record Scanner](https://github.com/demox-labs/aleo-record-scanner) – Verify Aleo records  
 - [ZKGaming Kit](https://github.com/Kryha/zk-gaming-toolkit) – Pre-built ZK primitives  
 - [Obscura](https://obscura.build/) – Privacy-focused project  
-- [Leology](https://github.com/leology-org/leology) – Developer-friendly SDK  
-- [dokoJS](https://github.com/venture23-aleo/doko-js) – JS toolkit for Aleo  
-- [Amaraleo](https://github.com/kaxxa123/amareleo-chain) – Blockchain infra  
-  - [Official Site](https://amareleo.com/)  
 
 ### Voting
 - [zVote](https://github.com/zsociety-io/zvote) – ZK voting system  
