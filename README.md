@@ -1,4 +1,4 @@
-<h1 align="center">aleo-ecosystem</h1>
+<h1 align="center">Aleo-Ecosystem</h1>
 <h3 align="center">🧿 A curated list of Aleo resources and ecosystem projects. 🧿</h3>
 
 <p align="center">
@@ -38,7 +38,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 
 ## Announcements & News
 
-- [Aleo Discord](https://aleo.org/discord) - The official Aleo Discord channel
+- [Aleo Discord](https://discord.gg/YtaruFtS) - The official Aleo Discord channel
 - [Aleo Twitter](https://twitter.com/AleoHQ) - The official Aleo Twitter account
 
 ## Presentations & Talks
