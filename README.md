@@ -184,7 +184,7 @@ Take a quick tour of everything in the Aleo Ecosystem:
 - [Aleo Explorer](https://www.aleo.network/) – Official blockchain explorer  
 - [Hamp Explorer](https://explorer.hamp.app/)  
 - [Aleo123 Explorer](https://Aleo123.io/)  
-- [Testnet Aleo](https://testnet.aleo.info/) – *[Placeholder]*  
+- [Aleo.Info](https://aleo.info/) – *[Placeholder]*  
 - [Aleo Box](https://aleobox.org/) – *[Placeholder]*  
 
 ### Identity & Authentication
