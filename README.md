@@ -118,7 +118,7 @@ Take a quick tour of everything in the Aleo Ecosystem:
 - [Leo Playground](https://play.leo-lang.org/) – Write, compile, and explore Leo code in your browser  
 
 ### Syntax Highlighters
-- [IntelliJ - Leo](https://plugins.jetbrains.com/plugin/19890-aleo-developer)  
+- [IntelliJ - Leo](https://plugins.jetbrains.com/plugin/19979-leo)  
 - [Sublime Text - Leo](https://packagecontrol.io/packages/LSP-leo)  
 - [VSCode - Leo](https://marketplace.visualstudio.com/items?itemName=aleohq.leo-extension)  
 - [vim - Aleo](https://github.com/julesdesmit/aleo.vim)  
@@ -151,7 +151,6 @@ Take a quick tour of everything in the Aleo Ecosystem:
 ### Art
 - [art-factory](https://github.com/demox-labs/art-factory) – Deploy NFT collections  
 - [Privacy Pride](https://www.privacypride.com/) – The first NFT collection on Aleo  
-- [Setup Ceremony NFTs](https://opensea.io/collection/fluctuations-by-aleo) – For ceremony participants  
 - [Artgo](https://github.com/artgo-labs/artgo) – AI-generated NFTs  
 - [Aleo.store](https://aleo.store) – NFT marketplace & standard proposition  
 
@@ -162,7 +161,7 @@ Take a quick tour of everything in the Aleo Ecosystem:
 - [Verulink Bridge](https://github.com/venture23-aleo/verulink) – Privacy-preserving bridge  
 
 ### Decentralized Finance (DeFi)
-- [aleo/token](https://github.com/AleoHQ/aleo/tree/testnet3/examples/token) – Custom asset example  
+- [aleo/token](https://github.com/ProvableHQ/leo-examples/blob/main/token/src/main.leo) – Custom asset example  
 - [ARC20 draft](https://github.com/Entropy1729/ARC20_leo) – Proposed token standard  
 - [ARC-721 Draft](https://github.com/AleoHQ/ARCs/discussions/36) – Proposed NFT standard  
 - [AtomiK](https://github.com/AtomicZK/atomiK-protocol) – Cross-chain atomic swaps  
@@ -172,37 +171,37 @@ Take a quick tour of everything in the Aleo Ecosystem:
 - [DistroFund](https://github.com/weichain/DistroFund) – Batch token distribution  
 - [Privx](https://github.com/privx-exchange/privx-exchange-contract) – On-chain privacy for orderbook DEX  
 - [Staking.xyz](https://staking.xyz/) – Staking services  
-- [Beta Staking](https://github.com/betastaking-labs) – *[Placeholder]*  
-- [Brale.xyz](https://github.com/Brale-xyz) – *[Placeholder]*  
-- [Pondo.xyz](https://github.com/pondo-xyz/aleo-standard-programs) – *[Placeholder]*  
-- [LSP Finance](https://docs.lsp.finance/) – *[Placeholder]*  
-- [ShadowFi](https://github.com/Shadow-Finance/shadow-finance) – *[Placeholder]*  
-- [Spectre](https://github.com/spectrehq/spectre) – *[Placeholder]*  
+- [Beta Staking](https://github.com/betastaking-labs) – Staking services  
+- [Brale.xyz](https://github.com/Brale-xyz) – DeFi services focused to stablecoins 
+- [Pondo.xyz](https://github.com/pondo-xyz) – Liquid staking service on Aleo
+- [LSP Finance](https://www.lsp.finance/) – Staking services
+- [ShadowFi](https://github.com/Shadow-Finance/shadow-finance) – Decentralized and private liquidity marketplace
+- [Spectre](https://github.com/spectrehq/spectre) – Liquidity protocol on Aleo
 - [Money Market](https://github.com/venture23-aleo/money-market) – *[Placeholder]*  
 
 ### Explorers
 - [Aleo Explorer](https://www.aleo.network/) – Official blockchain explorer  
-- [Hamp Explorer](https://explorer.hamp.app/)  
+- [Aleo Scanner (Previously Hamp's Explorer)](https://aleoscan.io/) 
 - [Aleo123 Explorer](https://Aleo123.io/)  
-- [Aleo.Info](https://aleo.info/) – *[Placeholder]*  
-- [Aleo Box](https://aleobox.org/) – *[Placeholder]*  
+- [Aleo.Info](https://aleo.info/) –  Aleo explorer maintained by community
+- [Aleo Box](https://aleobox.org/) – Discover applications on Aleo  
 
 ### Identity & Authentication
 - [Nemean](https://github.com/AleoHQ/nemean) – CLI/SDK for Aleo  
   - [Introducing Nemean](https://blog.pinestreetlabs.com/pine-street-labs-aleo-introducing-nemean/)  
   - [Aleo Grant Recipient: PSL](https://www.aleo.org/post/aleo-grants-pine-street-labs)  
   - [Fireside Chat](https://www.youtube.com/watch?v=B4lqbuyNozU)  
-- [Spruce DID Kit](https://www.spruceid.dev/didkit/didkit-examples/core-functions-with-aleo) – DIDs & VCs with Aleo  
+- [Spruce DID Kit](https://spruceid.com/) – DIDs & VCs with Aleo  
   - [Spruce Fireside Chat](https://www.youtube.com/watch?v=9L9xSxgvuX8)  
 - [zkDrop](https://github.com/4sm-ops/zkDrop/) – Digital ID and secure file sharing  
 - [ANS](https://github.com/S-T-Soft/aleo-name-service-contract) – Aleo Naming Service  
 - [zkKYC](https://github.com/B1boid/zk-KYC) – Privacy-preserving KYC  
 - [AleoGuard](https://github.com/gitshreevatsa/AleoGuard) – Aggregated identity (SSO)  
 - [Alei](https://alei.ssiprotocol.com) – Leo dApps + Tyron Social Recovery  
-- [Aleo Voice Mail](https://github.com/Elexy101/Aleo-Voice-Mail) – *[Placeholder]*  
-- [zkSign](https://github.com/lamdanghoang/zk_aleo) – *[Placeholder]*  
-- [Wise Pass](https://github.com/therealwisepass) – *[Placeholder]*  
-- [zkPID](https://github.com/etoneclab/zkpid-aleo-demo) – *[Placeholder]*  
+- [Aleo Voice Mail](https://github.com/Elexy101/Aleo-Voice-Mail) – Send one time voice mails by records 
+- [zkSign](https://github.com/lamdanghoang/zk_aleo) – Sign documents on Aleo
+- [Wise Pass](https://www.wisepass.co/) – Lifestyle platform  
+- [zkPID](https://github.com/etoneclab/zkpid-aleo-demo) – Utilizing privacy pools for zkPID
 
 ### Gaming
 > **Everything from hidden-information puzzles to classic casino games, built on ZK.**
@@ -228,8 +227,8 @@ Take a quick tour of everything in the Aleo Ecosystem:
 - [QuizGame](https://github.com/liolikus/QuizGame) – React-based quiz  
 - [Onchain VRF](https://github.com/onchain-vrf/aleo-onchain-vrf) – Verifiable random function  
 - [Memorygame](https://github.com/microbecode/zk-memorygame)  
-- [BotBusters](https://github.com/Kryha/bot-busters) – *[Placeholder]*  
-- [zkPlanet](https://github.com/marlonedwards/zkPlanet) – *[Placeholder]*  
+- [BotBusters](https://github.com/Kryha/bot-busters) – Chat and spot the bots
+- [zkPlanet](https://github.com/marlonedwards/zkPlanet) – A resource management and civilization game
 - **GangWars** – *[In development]*  
 
 ### Governance
@@ -244,7 +243,6 @@ Take a quick tour of everything in the Aleo Ecosystem:
 - [Neural Network Inference](https://github.com/zeroknowledgetutorials/leo-neural-networks)  
 - [Numerical Optimization](https://github.com/vicsn/leo-numerical-optimization) – Stochastic gradient descent  
 - [Linear Regression](https://github.com/kpandl/leo-linear-regression)  
-- [Run Leo](https://github.com/snowtigersoft/run_leo) – Transpile Leo in Python  
 - [Generate Leo](https://github.com/stakemepro/aleo-zkml-initiative-1) – Python → Leo code  
 - [Boosting Models](https://github.com/Danielto1404/aleo-boosting) – Privacy-preserving boosting  
 - [zkML (Gini, Decision Tree, K-Means)](https://github.com/storswiftlabs/zkML)  
@@ -252,7 +250,7 @@ Take a quick tour of everything in the Aleo Ecosystem:
 - [Leo Quantization](https://github.com/storswiftlabs/leo-quantization) – ML ops on quantized data  
 
 ### Marketplaces
-- [leo/auction](https://github.com/ProvableHQ/leo/tree/mainnet/examples/auction) – Auction record format  
+- [leo/auction](https://github.com/ProvableHQ/leo-examples/blob/main/auction/src/main.leo) – Auction record format  
 - [Anonymous Rating Survey](https://github.com/CredLancer/CredLancer_Aleo) – Add anonymous ratings  
 
 ### NFT Marketplaces & Launchpads
@@ -262,7 +260,7 @@ Take a quick tour of everything in the Aleo Ecosystem:
 ### NFT Collections
 - [Cyber Wizards NFT](https://app.arcane.finance/nft) – By Arcane Finance  
 - [Disruptors NFT](https://x.com/disruptorsnft) – Associated w/ Avail Wallet  
-- [Setup Ceremony NFTs](https://opensea.io/collection/fluctuations-by-aleo)  
+- [Setup Ceremony NFTs](https://opensea.io/collection/fluctuations-by-aleo) – For ceremony participants
 - [Legion13 NFT](https://www.legion13.art/) – By Sektor Labs  
 - [zLoot](https://zsociety.io/) – Privacy-preserving loot  
 - [Eyes NFT](https://x.com/eyeznfts) – Upcoming project  
@@ -283,7 +281,6 @@ Take a quick tour of everything in the Aleo Ecosystem:
 ### Tools
 - [Aleomail](https://www.aleomail.xyz/) – Private email on Aleo  
 - [Aleo Wallet Hooks](https://github.com/OrdosHQ/aleo-hooks) – Integrate Aleo wallets easily  
-- [ART Factory](https://github.com/demox-labs/art-factory) – Full dApp for NFT deployments  
 - [Record Scanner](https://github.com/demox-labs/aleo-record-scanner) – Verify Aleo records  
 - [ZKGaming Kit](https://github.com/Kryha/zk-gaming-toolkit) – Pre-built ZK primitives  
 - [Obscura](https://obscura.build/) – Privacy-focused project  
@@ -296,7 +293,7 @@ Take a quick tour of everything in the Aleo Ecosystem:
 ### Wallets
 > **Manage your Aleo assets and interact with private apps.**
 
-- [Avail Wallet](#) – Dormant desktop wallet  
+- [Avail Wallet](https://github.com/AvailX/avail-wallet) – Dormant desktop wallet  
 - [Coffer Wallet](https://github.com/coffer-aleo/coffer-wallet) – Multisig smart contract wallet  
 - [Leo Wallet](https://www.demoxlabs.xyz/) – By Demox Labs  
 - [Fox Wallet](https://foxwallet.com/) – Multi-chain extension & mobile  
@@ -305,7 +302,7 @@ Take a quick tour of everything in the Aleo Ecosystem:
 
 ### Wallets Developer Tools
 - [Puzzle SDK](https://docs.puzzle.online/) – Integrate with Puzzle or WalletConnect-based wallets  
-- [Aleo Wallet Connect Standards](https://docs.puzzle.online/sdk-free/overview/) – WalletConnect standard for Aleo  
+- [Aleo Wallet Connect Standards](https://docs.puzzle.online/guides/getting_started/) – WalletConnect standard for Aleo  
 - [Leo Wallet Adapter SDK](https://github.com/demox-labs/aleo-wallet-adapter) – Plug Leo Wallet into your dApp  
 - [iOS Swift Aleo Wallet Starter Kit](https://github.com/puzzlehq/zksummit_ios_workshop) – Build your own iOS client  
 - [MetaMask Snap (Unofficial)](https://github.com/bide-dev/aleo-wallet-snap) – Aleo extension for MetaMask  
