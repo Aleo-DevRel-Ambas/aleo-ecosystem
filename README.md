@@ -175,7 +175,7 @@ Take a quick tour of everything in the Aleo Ecosystem:
 - [Brale.xyz](https://github.com/Brale-xyz) – DeFi services focused to stablecoins 
 - [Pondo.xyz](https://github.com/pondo-xyz) – Liquid staking service on Aleo
 - [LSP Finance](https://www.lsp.finance/) – Staking services
-- [ShadowFi](https://github.com/Shadow-Finance/shadow-finance) – Decentralized and private liquidity marketplace
+- [ShadowFi](https://github.com/Shadow-Finance/shadow-finance) – **Dormant decentralized and private liquidity marketplace** 
 - [Spectre](https://github.com/spectrehq/spectre) – Liquidity protocol on Aleo
 - [Money Market](https://github.com/venture23-aleo/money-market) – *[Placeholder]*  
 
@@ -293,7 +293,7 @@ Take a quick tour of everything in the Aleo Ecosystem:
 ### Wallets
 > **Manage your Aleo assets and interact with private apps.**
 
-- [Avail Wallet](https://github.com/AvailX/avail-wallet) – Dormant desktop wallet  
+- [Avail Wallet](https://github.com/AvailX/avail-wallet) – **Dormant desktop wallet**  
 - [Coffer Wallet](https://github.com/coffer-aleo/coffer-wallet) – Multisig smart contract wallet  
 - [Leo Wallet](https://www.demoxlabs.xyz/) – By Demox Labs  
 - [Fox Wallet](https://foxwallet.com/) – Multi-chain extension & mobile  
