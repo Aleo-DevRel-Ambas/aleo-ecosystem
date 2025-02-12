@@ -167,7 +167,7 @@ Take a quick tour of everything in the Aleo Ecosystem:
 - [AtomiK](https://github.com/AtomicZK/atomiK-protocol) – Cross-chain atomic swaps  
 - [AleoSwap](https://github.com/aleoswap-labs/aleoswap) – A decentralized exchange  
 - [Arcane Finance](https://github.com/arcane-finance-defi/rfq-aleo-dex) – Privacy-centric DEX (RFQ + AMM)  
-- [AleoPad](https://aleopad.com/) – Launchpad for Aleo projects  
+- [AleoPad](https://aleopad.com/) – **Dormant launchpad for Aleo projects  **
 - [DistroFund](https://github.com/weichain/DistroFund) – Batch token distribution  
 - [Privx](https://github.com/privx-exchange/privx-exchange-contract) – On-chain privacy for orderbook DEX  
 - [Staking.xyz](https://staking.xyz/) – Staking services  
