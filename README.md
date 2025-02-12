@@ -182,7 +182,7 @@ Take a quick tour of everything in the Aleo Ecosystem:
 ### Explorers
 - [Aleo Explorer](https://www.aleo.network/) – Official blockchain explorer  
 - [Aleo Scanner (Previously Hamp's Explorer)](https://aleoscan.io/) 
-- [Aleo123 Explorer](https://Aleo123.io/)  
+- [Aleo123 Explorer](https://Aleo123.io/) - Aleo123 explorer maintained by commmunity
 - [Aleo.Info](https://aleo.info/) –  Aleo explorer maintained by community
 - [Aleo Box](https://aleobox.org/) – Discover applications on Aleo  
 
