@@ -76,7 +76,13 @@ Take a quick tour of everything in the Aleo Ecosystem:
 - [zkWhiteBoard Session with Pratyush Mishra](https://zkhack.dev/whiteboard/module-eight/) – ZKHack on Zexe and Aleo  
 - [Aleo with Howard Wu](https://zeroknowledge.fm/144-2/) – Zero Knowledge Podcast: Episode 144  
 - [Efficient Private Delegation of zkSNARK Provers](https://www.youtube.com/watch?v=iT_s92f3wds) – ZKSummit 7 talk  
-- [Zero-Knowledge Proof with Alex Pruden](https://player.fm/series/coingecko-podcast-bitcoin-cryptocurrency-insights/the-importance-of-zero-knowledge-proof-with-alex-pruden-coo-of-aleo-ep64) – CoinGecko Podcast  
+- [Zero-Knowledge Proof with Alex Pruden](https://player.fm/series/coingecko-podcast-bitcoin-cryptocurrency-insights/the-importance-of-zero-knowledge-proof-with-alex-pruden-coo-of-aleo-ep64) – CoinGecko Podcast
+- [Technical Workshop by Laisha](https://www.youtube.com/watch?v=8RFpd8U2bHg) – House of ZK (2025)
+- [Building a Private dApp on Aleo](https://www.youtube.com/watch?v=slVmiwqNiRw) – Building Auction Program (2024)
+- [zPass and Verification Program Tutorial](https://www.youtube.com/watch?v=eZYw0q4Zans) –  zkWorkshop (2024)
+- [The Aleo Advantage presented by Anthony](https://www.youtube.com/watch?v=Dv0zcy4YZLs) – Blockchain Futurist Conference (2023)
+- [Aleo Workshop Part 1](https://www.youtube.com/watch?v=MN1vtf4q7GM) – ZK Hack (2022)
+- [Aleo Workshop Part 2](https://www.youtube.com/watch?v=gwLoMBXKswc) – ZK Hack (2022)
 
 ---
 
