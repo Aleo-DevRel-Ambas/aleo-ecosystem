@@ -133,7 +133,7 @@ Take a quick tour of everything in the Aleo Ecosystem:
 - [Leo Program Runner](https://github.com/snowtigersoft/run_leo) – Load & execute Leo programs in Python  
 - [Leology](https://github.com/leology-org/leology) – Developer-friendly SDK  
 - [dokoJS](https://github.com/venture23-aleo/doko-js) – JS toolkit for Aleo  
-- [Amaraleo](https://github.com/kaxxa123/amareleo-chain) – Blockchain infra  
+- [Amaraleo](https://github.com/kaxxa123/amareleo-chain) – Aleo development node for local program tessting.
   - [Official Site](https://amareleo.com/)  
 
 ### Security
